@@ -1,11 +1,13 @@
 # Lionic
 
- https://ka07te.github.io/Lionic/
+ <a>https://ka07te.github.io/Lionic/</a>
 
 
-Cтек:
+<h1>Cтек:</h1>
 
-HTML
-CSS
-Адаптивная верстка
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>Адаптивная верстка</li>
+</ul>
 
